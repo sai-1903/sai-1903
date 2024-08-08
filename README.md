@@ -2,9 +2,8 @@
 - 👀 I’m interested in listening music
 - 🌱 I’m currently pursuing MCA
 - 💞️ I’m looking to collaborate with world
-- 📫 How to reach me -> mail 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me -> santhpalesaikiran9355@gmail.com
+ 
 
 <!---
 sai-1903/sai-1903 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
